@@ -1,2 +1,3 @@
-# Cotacao_Moedas
-Valor em tempo real do Dolár, Euro e BTC
+# Cotação de Moedas
+
+Acompanhe em tempo real o valor do Dolár, Euro e BTC!
